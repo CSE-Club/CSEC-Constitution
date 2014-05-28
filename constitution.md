@@ -10,14 +10,7 @@ The official name of the organization shall be the “Computer Science and Engin
 
 ## Purpose
 
-The purpose of the Computer Science and Engineering Club is to:
-
-- Professional Development
-- Promoting Interest
-- Fostering Academic Success
-- Building Professional Skill
-- Form a scholarly, secular, nonpolitical, and nonprofit student association for persons interested in Computer Science and Engineering studies
-- Promote interest and scientific understanding in Computer Science and Engineering
+The purpose of the Computer Science and Engineering Club is to foster and encourage interest in Computer Science and Engineering, to create an environment conducive to education and practice in that area, and to provide professional development opporitunities. We seek to form a scholarly, secular, nonpolitical, and nonprofit student association which fulfills these criteron for persons interested in Computer Science and Engineering.
 
 ## Supremacy
 
