@@ -16,6 +16,18 @@ The purpose of the Computer Science and Engineering Club is to foster and encour
 
 This Constitution shall be the supreme ruling document for the Computer Science and Engineering Club. The officers of Club shall be the governing body of the Club, and shall establish By-Laws which shall provide rules of conduct for the Club in accordance with, and subordinate to, this Constitution.
 
+## Definitions
+- **Officer**
+The elected officials who hold the primary authority and responsibility within the club.
+- **Cabinet Member**
+Additional board members which are identical to officers, but do not hold financial responsibility.
+- **The Board**  
+The set of individuals containing both the officers and the cabinet members.
+- **Coordinator**  
+Those appointed for the purpose of assisting the club in the execution of its activities.
+
+The set of individuals containing 
+
 ## Membership
 
 ### Categories of Membership
@@ -46,10 +58,14 @@ The Association's officers shall be the President, the Vice-President, the Treas
 
 ### Roles
 
-- President: The President serves as the executive officer of the Club, and is responsible for the overall running of the Club. The President acts as the Club’s primary spokesperson and representative. The President has the power of appointment. He or she may appoint individuals to serve in various positions to assist the elected officers of the Club. These appointments require confirmation by the Board of officers by a majority vote. (differentiate between cabinet and coordinators)
-- Vice President: The Vice President shall be to serve as President when the President is unavailable. He or she shall also perform other duties as directed by the President to encourage participation and growth of the Club.
-- Treasurer: The Treasurer shall be responsible for all accounts and bookkeeping of funds for the treasury of the Club.
-- Secretary: The Secretary shall ensure the order of Club meetings and documents
+- **President**  
+The President serves as the executive officer of the Club, and is responsible for the overall running of the Club. The President acts as the Club’s primary spokesperson and representative. He or she may appoint individuals to serve in coordinator positions to assist the elected officers of the Club. These appointments require confirmation by the Board.
+- **Vice President**  
+The Vice President shall be to serve as President when the President is unavailable. He or she shall also perform other duties as directed by the President to encourage participation and growth of the Club.
+- **Treasurer**  
+The Treasurer shall be responsible for all accounts and bookkeeping of funds for the treasury of the Club.
+- **Secretary**  
+The Secretary shall ensure the order of Club meetings and documents
 
 ### Requirements
 
