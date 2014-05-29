@@ -26,8 +26,6 @@ The set of individuals containing both the officers and the cabinet members.
 - **Coordinator**  
 Those appointed for the purpose of assisting the club in the execution of its activities.
 
-The set of individuals containing 
-
 ## Membership
 
 ### Categories of Membership
