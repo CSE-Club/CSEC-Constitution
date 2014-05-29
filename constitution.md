@@ -17,9 +17,9 @@ The purpose of the Computer Science and Engineering Club is to foster and encour
 This Constitution shall be the supreme ruling document for the Computer Science and Engineering Club. The officers of Club shall be the governing body of the Club, and shall establish By-Laws which shall provide rules of conduct for the Club in accordance with, and subordinate to, this Constitution.
 
 ## Definitions
-- **Officer**
+- **Officer**  
 The elected officials who hold the primary authority and responsibility within the club.
-- **Cabinet Member**
+- **Cabinet Member**  
 Additional board members which are identical to officers, but do not hold financial responsibility.
 - **The Board**  
 The set of individuals containing both the officers and the cabinet members.
